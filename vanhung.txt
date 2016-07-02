@@ -10,4 +10,5 @@ dsfsd
 fdsffdsfd
 add
 edit
+delete
 
