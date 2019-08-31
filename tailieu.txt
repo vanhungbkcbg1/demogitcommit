@@ -1,2 +1,1 @@
-git checkout --file duoc dung revert change o working directory
-git reset HEAD --file duoc dung de chuyen tu trang thai staged sang trang thai unstaged
+a
