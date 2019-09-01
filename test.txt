@@ -7,5 +7,3 @@ c
 1.2
 dev_1
 dev_2
-dev_3
-dev_4
