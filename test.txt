@@ -1,15 +1,1 @@
-abc
-commit 1
-hello
-a
-c
-1.1
-1.2
-dev_1
-dev_2
-day la master
-day la master 2
-test
 master
-master
-base master
